@@ -47,10 +47,10 @@ export default function MessageBubble({direction, text}) {
   },
 
   messageBubbleRight: {
-    backgroundColor: '#66db30'
+    backgroundColor: '#c290ff'
   },
 
   messageBubbleTextRight: {
-    color: 'white'
+    color: '#1f0046'
   },    
   })
